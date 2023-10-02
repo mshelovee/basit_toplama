@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\bin\Debug\basittoplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\bin\Debug\basittoplama.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\bin\Debug\basittoplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\basittoplama\basittoplama\obj\Debug\basittoplama.pdb
